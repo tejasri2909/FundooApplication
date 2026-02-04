@@ -1,0 +1,31 @@
+2026-02-04 16:17:47,881 - INFO - User registered: world@gmail.com
+2026-02-04 18:32:29,445 - INFO - User registered: ghost@gmail.com
+2026-02-04 18:33:04,805 - INFO - User logged in: ghost@gmail.com
+2026-02-04 18:33:36,993 - INFO - Password reset requested for: ghost@gmail.com
+2026-02-04 18:34:25,694 - INFO - Password reset confirmed for: ghost@gmail.com
+2026-02-04 18:34:43,295 - INFO - User logged in: ghost@gmail.com
+2026-02-04 18:56:33,155 - INFO - User logged in: ghost@gmail.com
+2026-02-04 18:56:39,108 - INFO - User logged in: ghost@gmail.com
+2026-02-04 18:56:55,058 - INFO - User logged in: ghost@gmail.com
+2026-02-04 18:57:03,439 - INFO - User logged in: ghost@gmail.com
+2026-02-04 18:57:07,310 - INFO - User logged in: ghost@gmail.com
+2026-02-04 18:57:07,775 - INFO - User logged in: ghost@gmail.com
+2026-02-04 18:57:08,418 - INFO - User logged in: ghost@gmail.com
+2026-02-04 18:57:08,840 - INFO - User logged in: ghost@gmail.com
+2026-02-04 19:02:59,626 - INFO - User logged in: ghost@gmail.com
+2026-02-04 19:03:03,176 - INFO - User logged in: ghost@gmail.com
+2026-02-04 19:03:12,140 - INFO - User logged in: ghost@gmail.com
+2026-02-04 19:03:20,033 - INFO - User logged in: ghost@gmail.com
+2026-02-04 19:03:21,966 - INFO - User logged in: ghost@gmail.com
+2026-02-04 19:03:22,886 - INFO - User logged in: ghost@gmail.com
+2026-02-04 19:03:26,703 - INFO - User logged in: ghost@gmail.com
+2026-02-04 19:04:07,019 - INFO - User registered: happy@gmail.com
+2026-02-04 19:04:19,771 - INFO - User logged in: happy@gmail.com
+2026-02-04 19:04:42,715 - INFO - Password reset requested for: happy@gmail.com
+2026-02-04 19:05:05,096 - INFO - Password reset confirmed for: happy@gmail.com
+2026-02-04 19:05:20,479 - INFO - User logged in: happy@gmail.com
+2026-02-04 23:16:23,868 - INFO - User registered: newme@gmail.com
+2026-02-04 23:16:59,034 - INFO - User logged in: newme@gmail.com
+2026-02-04 23:17:31,438 - INFO - Password reset requested for: newme@gmail.com
+2026-02-04 23:18:30,853 - INFO - Password reset confirmed for: newme@gmail.com
+2026-02-04 23:19:38,659 - INFO - User logged in: newme@gmail.com

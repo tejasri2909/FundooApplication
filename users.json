@@ -1,0 +1,52 @@
+{
+  "test@example.com": {
+    "email": "test@example.com",
+    "hashed_password": "$2b$12$EixZaYVK1fsbw1ZfbX3OXePaWxn96p36WQoeG6Lruj3vjPGga31lW",
+    "reset_token": null
+  },
+  "user1@example.com": {
+    "email": "user1@example.com",
+    "hashed_password": "$2b$12$8K3aAzl5Hn1IhZ8GV./VGOFsTJ70TzJecI6pwVKSFYJTGPlCraXCq",
+    "reset_token": null
+  },
+  "user2@example.com": {
+    "email": "user2@example.com",
+    "hashed_password": "$2b$12$QvT1WkSJcVDJ8GjEI8HfUeWbJrLkC6tUQjQZbMxvKxhLrYK8QmXyO",
+    "reset_token": null
+  },
+  "teju@gmail.com": {
+    "email": "teju@gmail.com",
+    "hashed_password": "$argon2id$v=19$m=65536,t=3,p=4$/F9rTWnNOeec0/r/v5dyrg$TUFQByBi9X3oQDillyIdHQ7k8A/0JebtnHKHTyURzrg",
+    "reset_token": null
+  },
+  "teju123@gmail.com": {
+    "email": "teju123@gmail.com",
+    "hashed_password": "$argon2id$v=19$m=65536,t=3,p=4$NEZoTYmx9r63FsLY+/9fKw$83XyTvIyIfNAl9PAWr/AZGIhylqd6zCUt7hMzhZtzc4",
+    "reset_token": null
+  },
+  "python@gmail.com": {
+    "email": "python@gmail.com",
+    "hashed_password": "$argon2id$v=19$m=65536,t=3,p=4$as0ZgzBm7B2DMOZcC8HYOw$D7pPi2Eec8jWdSrIMxaPYQpLX5HSKGqPxRTKG29l2Rc",
+    "reset_token": null
+  },
+  "world@gmail.com": {
+    "email": "world@gmail.com",
+    "hashed_password": "$argon2id$v=19$m=65536,t=3,p=4$GMP4f0+JUQpBKAXgvNcaIw$khuileUkgOGfygscsF4PEZOXPc+Z9Bci1AWiZBwdWf4",
+    "reset_token": null
+  },
+  "ghost@gmail.com": {
+    "email": "ghost@gmail.com",
+    "hashed_password": "$argon2id$v=19$m=65536,t=3,p=4$PMc4R4hRinGOce5d6/2fUw$1Ad35dX6yhckNFHXpRB/3Zfk3InGWceEp2Yy+eKGC6I",
+    "reset_token": null
+  },
+  "happy@gmail.com": {
+    "email": "happy@gmail.com",
+    "hashed_password": "$argon2id$v=19$m=65536,t=3,p=4$7n1P6V0rBeB8zxmDUAohpA$PDNIMZPahb+IkouwqE68TI7/ZKGaJHNT9OnkC8/Cnxg",
+    "reset_token": null
+  },
+  "newme@gmail.com": {
+    "email": "newme@gmail.com",
+    "hashed_password": "$argon2id$v=19$m=65536,t=3,p=4$koVR0MdaatYCDwtv4XVI6A$NJVvxgFcwv+DP7DK4SQ3N2P972DsgvUMo0NvbLabwN8",
+    "reset_token": null
+  }
+}
